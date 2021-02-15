@@ -1,0 +1,5321 @@
+[{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24f9fa"
+  },
+  "AwayTeam": "Levante",
+  "Date": "17/08/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24f9fb"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "17/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24f9fc"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "18/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24f9fd"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "18/08/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24f9fe"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "18/08/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24f9ff"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "19/08/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa00"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "19/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa01"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "19/08/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 3,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa02"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "20/08/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa03"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "20/08/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa04"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "24/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa05"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "24/08/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa06"
+  },
+  "AwayTeam": "Betis",
+  "Date": "25/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa07"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "25/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa08"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "25/08/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa09"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "26/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa0a"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "26/08/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa0b"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "26/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa0c"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "27/08/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa0d"
+  },
+  "AwayTeam": "Celta",
+  "Date": "27/08/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa0e"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "31/08/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa0f"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "31/08/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa10"
+  },
+  "AwayTeam": "Girona",
+  "Date": "31/08/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa11"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "01/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa12"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "01/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa13"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "02/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa14"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "02/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 8,
+  "FTR": "H",
+  "HTAG": 2,
+  "HTHG": 3,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa15"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "02/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa16"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "02/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa17"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "14/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa18"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "15/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa19"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "15/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa1a"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "15/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa1b"
+  },
+  "AwayTeam": "Betis",
+  "Date": "15/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa1c"
+  },
+  "AwayTeam": "Levante",
+  "Date": "16/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa1d"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "16/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa1e"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "16/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa1f"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "16/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa20"
+  },
+  "AwayTeam": "Celta",
+  "Date": "17/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa21"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "21/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa22"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "22/09/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 3,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa23"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "22/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa24"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "22/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa25"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "22/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa26"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "22/09/2018",
+  "Div": "SP1",
+  "FTAG": 5,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa27"
+  },
+  "AwayTeam": "Girona",
+  "Date": "23/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa28"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "23/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa29"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "23/09/2018",
+  "Div": "SP1",
+  "FTAG": 6,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 4,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa2a"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "23/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa2b"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "25/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 3,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa2c"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "25/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa2d"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "25/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa2e"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "26/09/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa2f"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "26/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa30"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "26/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 3,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa31"
+  },
+  "AwayTeam": "Celta",
+  "Date": "26/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa32"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "27/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa33"
+  },
+  "AwayTeam": "Betis",
+  "Date": "27/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa34"
+  },
+  "AwayTeam": "Levante",
+  "Date": "27/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa35"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "28/09/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa36"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "29/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa37"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "29/09/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa38"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "29/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa39"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "29/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa3a"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "30/09/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa3b"
+  },
+  "AwayTeam": "Girona",
+  "Date": "30/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa3c"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "30/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa3d"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "30/09/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa3e"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "01/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa3f"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "05/10/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa40"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "06/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa41"
+  },
+  "AwayTeam": "Levante",
+  "Date": "06/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d1b9a175325b24fa42"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "06/10/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 2,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa43"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "06/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa44"
+  },
+  "AwayTeam": "Betis",
+  "Date": "07/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa45"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "07/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa46"
+  },
+  "AwayTeam": "Celta",
+  "Date": "07/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa47"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "07/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa48"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "07/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa49"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "19/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa4a"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "20/10/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa4b"
+  },
+  "AwayTeam": "Levante",
+  "Date": "20/10/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa4c"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "20/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa4d"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "20/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa4e"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "21/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa4f"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "21/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa50"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "21/10/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa51"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "21/10/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa52"
+  },
+  "AwayTeam": "Girona",
+  "Date": "22/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa53"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "24/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa54"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "26/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa55"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "27/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa56"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "27/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa57"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "27/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa58"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "27/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa59"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "27/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa5a"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "28/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa5b"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "28/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 5,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa5c"
+  },
+  "AwayTeam": "Betis",
+  "Date": "28/10/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa5d"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "28/10/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa5e"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "03/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa5f"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "03/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa60"
+  },
+  "AwayTeam": "Girona",
+  "Date": "03/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa61"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "03/11/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa62"
+  },
+  "AwayTeam": "Celta",
+  "Date": "04/11/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 3,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa63"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "04/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa64"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "04/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa65"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "04/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa66"
+  },
+  "AwayTeam": "Levante",
+  "Date": "04/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa67"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "05/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa68"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "09/11/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa69"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "10/11/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa6a"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "10/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa6b"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "10/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa6c"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "10/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa6d"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "11/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa6e"
+  },
+  "AwayTeam": "Betis",
+  "Date": "11/11/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 3,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa6f"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "11/11/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa70"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "11/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa71"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "11/11/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa72"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "23/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa73"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "24/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa74"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "24/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa75"
+  },
+  "AwayTeam": "Levante",
+  "Date": "24/11/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa76"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "24/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa77"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "25/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa78"
+  },
+  "AwayTeam": "Girona",
+  "Date": "25/11/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa79"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "25/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa7a"
+  },
+  "AwayTeam": "Betis",
+  "Date": "25/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa7b"
+  },
+  "AwayTeam": "Celta",
+  "Date": "26/11/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa7c"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "30/11/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa7d"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "01/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa7e"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "01/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa7f"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "01/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa80"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "01/12/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa81"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "02/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa82"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "02/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa83"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "02/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa84"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "02/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa85"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "03/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa86"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "07/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa87"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "08/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa88"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "08/12/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 3,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa89"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "08/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa8a"
+  },
+  "AwayTeam": "Celta",
+  "Date": "08/12/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa8b"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "09/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa8c"
+  },
+  "AwayTeam": "Levante",
+  "Date": "09/12/2018",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 4,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa8d"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "09/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa8e"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "09/12/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa8f"
+  },
+  "AwayTeam": "Girona",
+  "Date": "10/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa90"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "14/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa91"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "15/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa92"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "15/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa93"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "15/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa94"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "15/12/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa95"
+  },
+  "AwayTeam": "Betis",
+  "Date": "16/12/2018",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa96"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "16/12/2018",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa97"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "16/12/2018",
+  "Div": "SP1",
+  "FTAG": 5,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa98"
+  },
+  "AwayTeam": "Girona",
+  "Date": "16/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa99"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "17/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa9a"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "21/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa9b"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "21/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa9c"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "22/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa9d"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "22/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa9e"
+  },
+  "AwayTeam": "Celta",
+  "Date": "22/12/2018",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fa9f"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "22/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa0"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "23/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa1"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "23/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa2"
+  },
+  "AwayTeam": "Levante",
+  "Date": "23/12/2018",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa3"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "03/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa4"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "04/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa5"
+  },
+  "AwayTeam": "Girona",
+  "Date": "04/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa6"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "05/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa7"
+  },
+  "AwayTeam": "Betis",
+  "Date": "05/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa8"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "05/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faa9"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "06/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faaa"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "06/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faab"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "06/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faac"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "06/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faad"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "07/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faae"
+  },
+  "AwayTeam": "Celta",
+  "Date": "11/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 2,
+  "HTHG": 2,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faaf"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "12/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab0"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "12/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab1"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "12/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab2"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "12/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab3"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "13/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab4"
+  },
+  "AwayTeam": "Levante",
+  "Date": "13/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab5"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "13/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab6"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "13/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab7"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "14/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 2,
+  "HTHG": 2,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab8"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "18/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fab9"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "19/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faba"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "19/01/2019",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fabb"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "19/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fabc"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "20/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fabd"
+  },
+  "AwayTeam": "Girona",
+  "Date": "20/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fabe"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "20/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fabf"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "20/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac0"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "20/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac1"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "21/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac2"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "26/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac3"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "26/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac4"
+  },
+  "AwayTeam": "Levante",
+  "Date": "26/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 5,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac5"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "26/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac6"
+  },
+  "AwayTeam": "Betis",
+  "Date": "27/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac7"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "27/01/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 3,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac8"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "27/01/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fac9"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "27/01/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faca"
+  },
+  "AwayTeam": "Celta",
+  "Date": "27/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24facb"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "28/01/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24facc"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "01/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24facd"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "02/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24face"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "02/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24facf"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "02/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad0"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "02/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad1"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "03/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad2"
+  },
+  "AwayTeam": "Girona",
+  "Date": "03/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad3"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "03/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad4"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "03/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad5"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "04/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad6"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "08/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad7"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "09/02/2019",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad8"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "09/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fad9"
+  },
+  "AwayTeam": "Celta",
+  "Date": "09/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fada"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "09/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fadb"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "10/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fadc"
+  },
+  "AwayTeam": "Betis",
+  "Date": "10/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fadd"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "10/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fade"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "10/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fadf"
+  },
+  "AwayTeam": "Levante",
+  "Date": "11/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae0"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "15/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae1"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "16/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae2"
+  },
+  "AwayTeam": "Levante",
+  "Date": "16/02/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae3"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "16/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae4"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "16/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae5"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "17/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae6"
+  },
+  "AwayTeam": "Girona",
+  "Date": "17/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae7"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "17/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae8"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "17/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fae9"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "18/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faea"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "22/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faeb"
+  },
+  "AwayTeam": "Celta",
+  "Date": "23/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faec"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "23/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faed"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "23/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faee"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "23/02/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faef"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "24/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf0"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "24/02/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf1"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "24/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf2"
+  },
+  "AwayTeam": "Betis",
+  "Date": "24/02/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf3"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "25/02/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf4"
+  },
+  "AwayTeam": "Girona",
+  "Date": "01/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf5"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "02/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf6"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "02/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf7"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "02/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf8"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "02/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faf9"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "03/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fafa"
+  },
+  "AwayTeam": "Celta",
+  "Date": "03/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fafb"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "03/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fafc"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "03/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fafd"
+  },
+  "AwayTeam": "Levante",
+  "Date": "04/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fafe"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "08/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24faff"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "09/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb00"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "09/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb01"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "09/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb02"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "09/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb03"
+  },
+  "AwayTeam": "Betis",
+  "Date": "10/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb04"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "10/03/2019",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb05"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "10/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb06"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "10/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 5,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb07"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "10/03/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb08"
+  },
+  "AwayTeam": "Levante",
+  "Date": "15/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb09"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "16/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb0a"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "16/03/2019",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb0b"
+  },
+  "AwayTeam": "Girona",
+  "Date": "16/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb0c"
+  },
+  "AwayTeam": "Celta",
+  "Date": "16/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb0d"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "17/03/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb0e"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "17/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb0f"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "17/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb10"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "17/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb11"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "17/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb12"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "29/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb13"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "30/03/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb14"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "30/03/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb15"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "30/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb16"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "30/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb17"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "31/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb18"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "31/03/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb19"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "31/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb1a"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "31/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb1b"
+  },
+  "AwayTeam": "Betis",
+  "Date": "31/03/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb1c"
+  },
+  "AwayTeam": "Girona",
+  "Date": "02/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb1d"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "02/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb1e"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "02/04/2019",
+  "Div": "SP1",
+  "FTAG": 4,
+  "FTHG": 4,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 1,
+  "HTR": "A",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb1f"
+  },
+  "AwayTeam": "Levante",
+  "Date": "03/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb20"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "03/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb21"
+  },
+  "AwayTeam": "Celta",
+  "Date": "03/04/2019",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 3,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb22"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "03/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb23"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "04/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb24"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "04/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb25"
+  },
+  "AwayTeam": "Betis",
+  "Date": "04/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb26"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "06/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb27"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "06/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb28"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "06/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb29"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "06/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb2a"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "07/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb2b"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "07/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb2c"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "07/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb2d"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "07/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb2e"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "07/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb2f"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "07/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb30"
+  },
+  "AwayTeam": "Celta",
+  "Date": "13/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb31"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "13/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb32"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "13/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb33"
+  },
+  "AwayTeam": "Betis",
+  "Date": "13/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb34"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "14/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb35"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "14/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb36"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "14/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb37"
+  },
+  "AwayTeam": "Levante",
+  "Date": "14/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb38"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "14/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb39"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "15/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb3a"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "19/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb3b"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "20/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb3c"
+  },
+  "AwayTeam": "Girona",
+  "Date": "20/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb3d"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "20/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb3e"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "20/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb3f"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "21/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb40"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "21/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb41"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "21/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb42"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "21/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb43"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "21/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb44"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "23/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb45"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "23/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb46"
+  },
+  "AwayTeam": "Girona",
+  "Date": "23/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb47"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "24/04/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb48"
+  },
+  "AwayTeam": "Celta",
+  "Date": "24/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb49"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "24/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb4a"
+  },
+  "AwayTeam": "Betis",
+  "Date": "24/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb4b"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "25/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb4c"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "25/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 5,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb4d"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "25/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb4e"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "27/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb4f"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "27/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb50"
+  },
+  "AwayTeam": "Levante",
+  "Date": "27/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb51"
+  },
+  "AwayTeam": "Celta",
+  "Date": "27/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 0,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb52"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "28/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb53"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "28/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb54"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "28/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb55"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "28/04/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb56"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "28/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb57"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "29/04/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb58"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "03/05/2019",
+  "Div": "SP1",
+  "FTAG": 3,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 2,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb59"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "04/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb5a"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "04/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb5b"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "04/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb5c"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "04/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 4,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb5d"
+  },
+  "AwayTeam": "Betis",
+  "Date": "05/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb5e"
+  },
+  "AwayTeam": "Girona",
+  "Date": "05/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb5f"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "05/05/2019",
+  "Div": "SP1",
+  "FTAG": 6,
+  "FTHG": 2,
+  "FTR": "A",
+  "HTAG": 5,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb60"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "05/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Real Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb61"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "05/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb62"
+  },
+  "AwayTeam": "Celta",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 3,
+  "HTR": "H",
+  "HomeTeam": "Ath Bilbao"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb63"
+  },
+  "AwayTeam": "Sevilla",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 1,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Ath Madrid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb64"
+  },
+  "AwayTeam": "Getafe",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Barcelona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb65"
+  },
+  "AwayTeam": "Huesca",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Betis"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb66"
+  },
+  "AwayTeam": "Levante",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Girona"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb67"
+  },
+  "AwayTeam": "Espanol",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Leganes"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb68"
+  },
+  "AwayTeam": "Real Madrid",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Sociedad"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb69"
+  },
+  "AwayTeam": "Alaves",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 3,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Valencia"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb6a"
+  },
+  "AwayTeam": "Valladolid",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 1,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Vallecano"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb6b"
+  },
+  "AwayTeam": "Eibar",
+  "Date": "12/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 1,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Villarreal"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb6c"
+  },
+  "AwayTeam": "Girona",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Alaves"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb6d"
+  },
+  "AwayTeam": "Vallecano",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Celta"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb6e"
+  },
+  "AwayTeam": "Sociedad",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Espanol"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb6f"
+  },
+  "AwayTeam": "Villarreal",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 1,
+  "HTHG": 1,
+  "HTR": "D",
+  "HomeTeam": "Getafe"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb70"
+  },
+  "AwayTeam": "Leganes",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 1,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Huesca"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb71"
+  },
+  "AwayTeam": "Ath Madrid",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 0,
+  "HTHG": 2,
+  "HTR": "H",
+  "HomeTeam": "Levante"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb72"
+  },
+  "AwayTeam": "Ath Bilbao",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 0,
+  "FTHG": 2,
+  "FTR": "H",
+  "HTAG": 0,
+  "HTHG": 1,
+  "HTR": "H",
+  "HomeTeam": "Sevilla"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb73"
+  },
+  "AwayTeam": "Valencia",
+  "Date": "18/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 1,
+  "HTHG": 0,
+  "HTR": "A",
+  "HomeTeam": "Valladolid"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb74"
+  },
+  "AwayTeam": "Barcelona",
+  "Date": "19/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 2,
+  "FTR": "D",
+  "HTAG": 2,
+  "HTHG": 2,
+  "HTR": "D",
+  "HomeTeam": "Eibar"
+},{
+  "_id": {
+    "$oid": "602a83d2b9a175325b24fb75"
+  },
+  "AwayTeam": "Betis",
+  "Date": "19/05/2019",
+  "Div": "SP1",
+  "FTAG": 2,
+  "FTHG": 0,
+  "FTR": "A",
+  "HTAG": 0,
+  "HTHG": 0,
+  "HTR": "D",
+  "HomeTeam": "Real Madrid"
+}]
